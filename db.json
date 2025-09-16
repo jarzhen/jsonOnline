@@ -109,7 +109,7 @@
             "week": "12345"
         },
         {
-            "departure_time": "16:40",
+            "departure_time": "16:37",
             "license_plate": "考斯特-京A·JS928(银清科技)",
             "departure_location": "园区南大门",
             "week": "12345"
@@ -193,7 +193,7 @@
             "week": "12345"
         },
         {
-            "departure_time": "20:40",
+            "departure_time": "20:35",
             "license_plate": "考斯特-京B·25230(银建)",
             "departure_location": "园区南大门",
             "week": "12345"
@@ -229,7 +229,7 @@
             "week": "60"
         },
         {
-            "departure_time": "20:40",
+            "departure_time": "20:35",
             "license_plate": "考斯特-京A·R1197(松园)",
             "departure_location": "园区南大门",
             "week": "60"
